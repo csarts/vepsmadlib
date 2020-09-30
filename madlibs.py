@@ -1,4 +1,4 @@
-# MADLIBS FILE PLEASE DONT READ THIS JUST RUN THE CODE IT WORKS OKAY
+# MADLIBS FILE
 
 import random
 
@@ -43,7 +43,7 @@ sentence3 = ["\n4 looks down and sees a 2 6 near 9 feet.",
              "After searching unsuccessfully, 4 2ly picks up an item at 9 feet.",
              "\nAn item falls and hits | on the foot, and he 2ly yelps in pain."]
 sentence4 = ["\n0 looks in astonishment at the item in 9 hands, which is a 2 6.",
-             "\n4 2ly looks at the item, and throws it at a 5, breaking it.",
+             "\n4 2ly looks at the item, and throws it at a 6, breaking it.",
              "\n0 decides 4's hungry, and 2ly eats the item, and then starts 2 7 out of the room."]
 
 # RANDOM THINGS
